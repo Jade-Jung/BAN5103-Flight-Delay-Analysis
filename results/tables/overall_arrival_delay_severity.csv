@@ -1,0 +1,6 @@
+delay_severity,Flights,Percentage
+Early or On Time,194342,59.37
+1-15 Minutes Late,55374,16.92
+16-60 Minutes Late,49841,15.23
+61-120 Minutes Late,17755,5.42
+Over 120 Minutes Late,10034,3.07

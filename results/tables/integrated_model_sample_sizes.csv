@@ -1,0 +1,4 @@
+,Model_Dataset,Flights,Share_of_Total_Pct
+0,All Cleaned Flights,327346,100.0
+1,Flight Characteristics Only,327346,100.0
+2,Flight + Weather Characteristics,325724,99.50449982587232

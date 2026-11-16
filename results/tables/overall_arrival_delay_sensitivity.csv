@@ -1,0 +1,5 @@
+Scenario,Flights,Mean,Median,Excluded_Flights
+All Flights,327346,6.9,-5.0,0
+Exclude Delays > 180 Min,323503,4.02,-5.0,3843
+Exclude Delays > 120 Min,317312,1.26,-6.0,10034
+Exclude Delays > 60 Min,299557,-3.71,-7.0,27789

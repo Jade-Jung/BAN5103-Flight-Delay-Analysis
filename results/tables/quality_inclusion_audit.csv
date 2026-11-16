@@ -1,0 +1,4 @@
+Stage,Flights
+Original flight records,336776
+Excluded: missing arrival delay,9430
+Retained: observed arrival delay,327346

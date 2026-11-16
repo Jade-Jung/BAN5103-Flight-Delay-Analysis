@@ -1,0 +1,4 @@
+origin,Flights,Delays_Over_120,Extreme_Delay_Pct,Maximum_Delay,Share_of_Total_Pct
+EWR,117127,3965,3.39,1109.0,35.78
+JFK,109079,3166,2.9,1272.0,33.32
+LGA,101140,2903,2.87,915.0,30.9

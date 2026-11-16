@@ -1,0 +1,5 @@
+scheduled_time_period,Flights,Delays_Over_120,Extreme_Delay_Pct,Maximum_Delay,Share_of_Total_Pct
+Overnight,1940,9,0.46,208.0,0.59
+Morning,126646,1511,1.19,1272.0,38.69
+Afternoon,127017,4774,3.76,1109.0,38.8
+Evening,71743,3740,5.21,1127.0,21.92

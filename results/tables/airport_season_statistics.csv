@@ -1,0 +1,13 @@
+origin,season,Flights,Mean,Median,Delay_Over_15_Pct
+EWR,Fall,28971,-0.41,-8.0,16.11
+EWR,Spring,30549,10.03,-3.0,27.14
+EWR,Summer,30006,12.96,-3.0,28.44
+EWR,Winter,27601,13.89,1.0,30.72
+JFK,Fall,26529,-2.99,-9.0,14.2
+JFK,Spring,27780,3.87,-7.0,22.25
+JFK,Summer,28809,14.47,-2.0,30.5
+JFK,Winter,25961,6.19,-4.0,24.32
+LGA,Fall,27099,-0.36,-8.0,17.04
+LGA,Spring,25265,6.15,-6.0,22.87
+LGA,Summer,25309,11.34,-4.0,26.77
+LGA,Winter,23467,6.49,-3.0,23.18

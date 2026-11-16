@@ -1,0 +1,9 @@
+Check,Passed
+No missing arrival delay,True
+All seasons valid,True
+Season matches month,True
+Scheduled hour in 0-23,True
+Scheduled hour matches schedule,True
+No missing distance,True
+Expected origin airports,True
+No saved merge indicator,True

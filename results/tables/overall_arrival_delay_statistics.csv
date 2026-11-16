@@ -1,0 +1,13 @@
+Statistic,Value
+Total Flights,327346.0
+Mean,6.8954
+Median,-5.0
+Standard Deviation,44.6333
+Minimum,-86.0
+25th Percentile,-17.0
+75th Percentile,14.0
+90th Percentile,52.0
+95th Percentile,91.0
+99th Percentile,190.0
+Maximum,1272.0
+Skewness,3.7168
